@@ -6,8 +6,8 @@ https://public.tableau.com/profile/sathya.kulatunga#!/vizhome/CitiBikeAnalytics_
 
 # Key points observed from City Bike analysis 2016 Second Quarter
 
-*Top Start Station is Pershing Square South 
-*Top End Station is Pershing Square North
+-Top Start Station is Pershing Square South 
+-Top End Station is Pershing Square North
 *Riders with 1977 Birth year holds the most recorded trips
 The highest aged person took a trip was at the age of 103
 Male riders have completed more trips compared to female riders	
